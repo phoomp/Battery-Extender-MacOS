@@ -1,2 +1,2 @@
 # Battery-Extender-MacOS
-Extends the amount of time you can use your mac on battery, especially when it's low!
+Extends the length of 1% battery time on MacOS by disabling sleep and preventing power reservation.
